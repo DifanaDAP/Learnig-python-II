@@ -22,3 +22,8 @@ angka3 = int(input("Masukan angka pertama: "))
 angka4 = int(input("masukan angka kedua: "))
 print("Hasil penjualan: ", modul1.kali(angka3, angka4))
 print("Hasil pembagian: ", modul2.bagi(angka3, angka4))
+
+
+# 1. Buat module baru bernama "math_operations.py" yang berisi fungsi untuk menghitung pangkat dan modulus.
+# 2. Buat package baru bernama "text_utils" yang berisi module untuk menghitung jumlah huruf vokal dan konsonan dalam sebuah teks.
+# 3. Buat program utama yang mengimpor dan menggunakan module dan package yang telah dibuat.
