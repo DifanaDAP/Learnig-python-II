@@ -48,3 +48,12 @@ def hitung_faktor(x):
     return faktor
 
 print("Faktor dari 12:", hitung_faktor(12))
+
+# Latihan:
+# 1. Tambahkan logging untuk fungsi yang menghitung faktorial suatu angka.
+# 2. Gunakan pdb untuk mendebug fungsi rekursif sederhana.
+# 3. Ubah level logging menjadi WARNING, lalu coba jalankan kembali kode di atas.
+# 4. Simpan log ke file "app.log" dengan mode append.
+# 5. Buat fungsi yang menangani error dengan logging dan mencatat jenis error yang terjadi.
+
+# Coba selesaikan latihan di atas untuk memperdalam pemahaman debugging dan logging! 🚀
